@@ -1,0 +1,11 @@
+h1{
+    color: rgb(0, 226, 226);
+    border: solid;
+    border-width: 5px;
+    border-color: black;
+}
+.information
+{
+    color:rgb(215, 248, 66);
+    background-color: rgb(255, 82, 29);
+}
